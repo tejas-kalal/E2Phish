@@ -9,7 +9,7 @@ Phishing websites pose a serious cybersecurity risk by attempting to steal sensi
    - The data is balanced, ensuring equal representation of both phishing and legitimate cases.[click here to download dataset](https://www.kaggle.com/code/fadilparves/pishing-detection-using-machine-learning/comments)
 2. **Feature Selection**
    - The Mutual Information (MI) technique was applied to select the most informative features.
-   - This process reduced the dataset to 32 significant features, enhancing predictive performance ( can be seen in upcoming fig).
+   - This process reduced the dataset to 32 significant features, enhancing predictive performance.
 3. **Machine Learning Techniques**
    - **Base Classifiers**: Decision Tree (DT), Logistic Regression (LR), Naive Bayes (NB), and Support Vector Machine (SVM).
    - **Stacking Ensemble Approach**: A multi-level stacking ensemble model was developed:
@@ -25,8 +25,13 @@ Phishing websites pose a serious cybersecurity risk by attempting to steal sensi
    - Comparative evaluations demonstrated the ensemble's outperformance over individual classifiers and alternative ensemble methods (soft and hard voting).
 5. **Explainable AI (XAI) Integration**
    - XAI techniques, including SHAP, LIME, and Partial Dependence Plots (PDP), were applied to the best-performing model to enhance interpretability.
-   - These tools provided insights into feature contributions and model decision-making processes ( can be seen in upcoming fig).
-![SHAP's Beeswarm Plot ](SHAP.png)
+   - These tools provided insights into feature contributions and model decision-making processes (fig.1).
+<p align="center">
+  <img src="SHAP.png" alt="SHAP Visualization" width="500"/>
+  <br>
+  <em>Figure 1: SHAP's Beeswarm Plot </em>
+</p>
+
 
 ## Code Availability
 All the code required for this project is made available in the same repository.
