@@ -26,6 +26,7 @@ Phishing websites pose a serious cybersecurity risk by attempting to steal sensi
 5. **Explainable AI (XAI) Integration**
    - XAI techniques, including SHAP, LIME, and Partial Dependence Plots (PDP), were applied to the best-performing model to enhance interpretability.
    - These tools provided insights into feature contributions and model decision-making processes ( can be seen in upcoming fig).
+![SHAP's Beeswarm Plot ](images/SHAP.png)
 
 ## Code Availability
 All the code required for this project is made available in the same repository.
