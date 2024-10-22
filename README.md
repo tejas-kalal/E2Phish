@@ -1,5 +1,5 @@
-<div style="text-align: justify">
 # E2Phish: Explainable Ensemble Machine Learning Model for Enhanced Phishing URL Detection 
+<div style="text-align: justify">
 This repository contains the code and resources associated with the paper titled **"E2Phish: Explainable Ensemble Machine Learning Model for Enhanced Phishing URL Detection "**, presented at [The 8th edition of the Annual IEEE International Conference on Information Communication Technology (CICT) jointly organized by all CFIllTs, 2024.](https://cict2024.iiita.ac.in/2024/) The study investigates the detection of phishing websites through a combination of machine learning and explainable AI (XAI) techniques, aiming to improve both predictive accuracy and model interpretability.
 
 ## Project Overview
