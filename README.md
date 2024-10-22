@@ -8,7 +8,7 @@ Phishing websites pose a serious cybersecurity risk by attempting to steal sensi
 
 1. **Dataset Details**
    - The dataset comprises 10,000 samples with 50 features, including labels indicating phishing or legitimate websites.
-   - The data is balanced, ensuring equal representation of both phishing and legitimate cases.
+   - The data is balanced, ensuring equal representation of both phishing and legitimate cases.[click here to download dataset](https://www.kaggle.com/code/fadilparves/pishing-detection-using-machine-learning/comments)
 2. **Feature Selection**
    - The Mutual Information (MI) technique was applied to select the most informative features.
    - This process reduced the dataset to 32 significant features, enhancing predictive performance ( can be seen in upcoming fig).
